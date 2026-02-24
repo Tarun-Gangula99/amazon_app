@@ -3,3 +3,7 @@ This is the example file for github
 This is the second line
 
 This is the third line
+
+reset example
+
+example reset
