@@ -11,3 +11,5 @@ example reset
 hello
 
 how are you
+
+welcome
